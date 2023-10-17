@@ -60,29 +60,54 @@ Testing and Debugging: Developing skills to test and debug your code effectively
 Project Management: Organizing your work, collaborating with a team, and meeting project deadlines.
 
 TO RUN THIS PROJECT INSTALL THESE PACKAGES AT SERVER SIDE
+
 "bcryptjs"
+
 "cookie-parser"
+
 "dotenv"
+
 "express"
+
 "heroku"
+
 "jsonwebtoken"
+
 "mongoose"
+
 "multer"
+
 "nodemon"
 
 AND INSTALL FOLLOWING PACKAGES AT CLIENT SIDE
+
 "axios"
+
 "bower"
+
 "init"
+
+
 "react"
+
 "react-dom" 
+
 "react-scripts"
+
   AFTER INSTALLING THESE PACKAGES TO CONNECT BACKEND WITH DATABASE 
-  nodemon app.js  Using nodemon (if we want the server to automatically restart when you make changes):
+  
+  nodemon app.js  Using nodemon (if we want the server to automatically restart when you make changes)
+  
   (or)
-  node app.js   Using node (if we don't need automatic restarts):
+  
+  node app.js   Using node (if we don't need automatic restarts)
+  
 once database and backend connected at port 5000
+
 Another side react app runs on port 3000
+
 to run project use
+
 npm start (or) yarn start
-With both the backend and frontend servers running, you can access your web application by opening a web browser and navigating to http://localhost:3000. Your React frontend will be hosted there. It can make requests to your Node.js backend, typically at http://localhost:5000, using API endpoints you've defined in your backend code.
+With both the backend and frontend servers running,
+you can access your web application by opening a web browser and navigating to http://localhost:3000. Your React frontend will be hosted there. It can make requests to your Node.js backend, typically at http://localhost:5000, using API endpoints you've defined in your backend code.
