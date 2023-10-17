@@ -1,5 +1,4 @@
-Faculty Recruitment And Monitoring System
-﻿
+
 
 Project Title: Faculty Recruitment And Monitoring System
 
