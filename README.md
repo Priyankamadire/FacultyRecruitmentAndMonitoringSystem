@@ -22,9 +22,9 @@ Create a web app which will indicate the future vacancies and positions for prop
 ![Screenshot 2023-10-18 033335](https://github.com/Priyankamadire/FacultyRecruitmentAndMonitoringSystem/assets/108828579/996b6dd6-6c0a-4adc-b17c-fe3bb85de2bd)
 ![Screenshot 2023-10-18 033407](https://github.com/Priyankamadire/FacultyRecruitmentAndMonitoringSystem/assets/108828579/481f9940-9368-44d6-8485-e73c3819420a)
 
-![Screenshot 2023-10-18 034202](https://github.com/Priyankamadire/FacultyRecruitmentAndMonitoringSystem/assets/108828579/5e1888f0-9287-4f6
+![Screenshot 2023-10-18 034202](https://github.com/Priyankamadire/FacultyRecruitmentAndMonitoringSystem/assets/108828579/5e1888f0-9287-4f6b-b085-08cbfa384985)
 ![Screenshot 2023-10-18 034246](https://github.com/Priyankamadire/FacultyRecruitmentAndMonitoringSystem/assets/108828579/e611adfa-df7d-4ee2-957e-21dc625b152d)
-b-b085-08cbfa384985)
+
 ![Screenshot 2023-10-18 034344](https://github.com/Priyankamadire/FacultyRecruitmentAndMonitoringSystem/assets/108828579/4e447199-648b-469d-bd49-7ec9e471f4bc)
 ![Screenshot 2023-10-18 034406](https://github.com/Priyankamadire/FacultyRecruitmentAndMonitoringSystem/assets/108828579/84eccffe-0630-4d78-8b18-304ed60e0775)
 
