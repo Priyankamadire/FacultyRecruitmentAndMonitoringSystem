@@ -30,3 +30,59 @@ b-b085-08cbfa384985)
 
 ![Screenshot 2023-10-18 034424](https://github.com/Priyankamadire/FacultyRecruitmentAndMonitoringSystem/assets/108828579/66aef9a6-6caa-4023-9793-ea0a1e4cb1c8)
 ![Screenshot 2023-10-18 034520](https://github.com/Priyankamadire/FacultyRecruitmentAndMonitoringSystem/assets/108828579/07c05a67-00ca-4af6-aa2d-af96eaf3e029)
+
+
+This website is responsive for all kind of devices and this project is useful to learn full stack developement
+Front-End Development:
+
+HTML: Structuring the content of your web pages.
+CSS: Styling and layout, including making your site responsive.
+JavaScript: Adding interactivity and functionality to your website.
+Back-End Development:
+
+Server-side scripting: Handling server requests and responses.
+Databases: Storing and retrieving data from a database.
+Server and hosting: Deploying and maintaining the server-side components.
+Version Control: Using tools like Git to manage and collaborate on your codebase.
+
+Web Development Frameworks: Learning to work with popular frameworks like React, Angular, or Vue for front-end development, and Node.js, Django, Ruby on Rails, or Flask for back-end development.
+
+Responsive Design Principles: Understanding media queries, flexible grids, and other techniques for creating a responsive design.
+
+Web Security: Learning about common security vulnerabilities and best practices to protect your web application.
+
+API Development: Creating and consuming APIs to connect front-end and back-end components.
+
+DevOps: Deploying, monitoring, and maintaining your application in a production environment.
+
+Testing and Debugging: Developing skills to test and debug your code effectively.
+
+Project Management: Organizing your work, collaborating with a team, and meeting project deadlines.
+
+TO RUN THIS PROJECT INSTALL THESE PACKAGES AT SERVER SIDE
+"bcryptjs"
+"cookie-parser"
+"dotenv"
+"express"
+"heroku"
+"jsonwebtoken"
+"mongoose"
+"multer"
+"nodemon"
+
+AND INSTALL FOLLOWING PACKAGES AT CLIENT SIDE
+"axios"
+"bower"
+"init"
+"react"
+"react-dom" 
+"react-scripts"
+  AFTER INSTALLING THESE PACKAGES TO CONNECT BACKEND WITH DATABASE 
+  nodemon app.js  Using nodemon (if we want the server to automatically restart when you make changes):
+  (or)
+  node app.js   Using node (if we don't need automatic restarts):
+once database and backend connected at port 5000
+Another side react app runs on port 3000
+to run project use
+npm start (or) yarn start
+With both the backend and frontend servers running, you can access your web application by opening a web browser and navigating to http://localhost:3000. Your React frontend will be hosted there. It can make requests to your Node.js backend, typically at http://localhost:5000, using API endpoints you've defined in your backend code.
