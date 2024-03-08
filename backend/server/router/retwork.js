@@ -4,7 +4,7 @@ const jwt = require('jsonwebtoken');
 const bcrypt = require('bcryptjs');
 const dotenv = require("dotenv");
 const mongoose = require('mongoose');
-
+const authenticate = require('../middleware/authenticate');
 mongoose.set('strictQuery', true);
 dotenv.config({path : './config.env'});
 

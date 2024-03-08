@@ -14,7 +14,6 @@ const User = require("../model/userSchema");
 const Admin = require('../model/adminSchema');
 const Detail = require('../model/detailSchema');
 const Postjob = require("../model/postSchema");
-const New = require("../model/newworSchema");
 
 router.get('/',(req,res)=>{
     res.send('hi from router js');
@@ -170,7 +169,5 @@ router.get('/jobavai',(req,res)=>{
 })
 
     
-
-
 module.exports = router;
 

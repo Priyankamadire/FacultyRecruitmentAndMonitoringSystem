@@ -70,17 +70,18 @@ const New = require("../model/newworSchema");
 
 ); 
 
-
 router.get('/newfa_',(req,res)=>{
-  New.find((err,data)=>{
-    if(err){
-      res.status(500).send(err);
-    }
-    else{
-      res.status(200).send(data);
-    }
+    New.find((err,data)=>{
+      if(err){
+        res.status(500).send(err);
+      }
+      else{
+        res.status(200).send(data);
+      }
+    })
   })
-})
+
+
     
 module.exports = router;
 

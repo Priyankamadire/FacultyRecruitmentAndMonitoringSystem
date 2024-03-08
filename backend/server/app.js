@@ -2,6 +2,7 @@ const dotenv = require("dotenv");
 const { Router } = require('express');
 const express = require('express')
 const mongoose = require('mongoose');
+const multer = require('multer');
 const { route } = require('./router/work');
 const app= express()
 app.use(express.json());
